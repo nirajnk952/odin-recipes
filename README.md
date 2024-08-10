@@ -22,20 +22,23 @@ This project is a simple recipe website built using only HTML. It consists of a 
 
 ### Main Page
 
-![Main Page Screenshot](image)
+![Main Page Screenshot](images/main_page_screenshot.png)
 
-### Lasagna Recipe Page![lasagna](https://github.com/user-attachments/assets/a569e857-5235-4870-a712-6eee55788b13)
+### Lasagna Recipe Page
 
-![Lasagna Recipe Screenshot]
+![lasagna](https://github.com/user-attachments/assets/7729490b-c2dc-4da9-8025-a4c2e6e91f83)
 
-### Pizza Recipe Page!
 
-[pizza](https://github.com/user-attachments/assets/eccae1d2-fb75-4083-8562-0a0b96222fb8)
+### Pizza Recipe Page
+
+![pizza](https://github.com/user-attachments/assets/c93a44d0-6579-4545-8dbc-6c632d0e26f7)
+
 
 
 ### Tacos Recipe Page
 
-![Tacos Recipe Screenshot](images/tacos_screenshot.png)
+![tacos](https://github.com/user-attachments/assets/c17be4bc-95bc-4d49-bf43-0fc4858ab7f6)
+
 
 ## Adding Images to the README
 

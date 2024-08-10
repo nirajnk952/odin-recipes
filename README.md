@@ -20,10 +20,6 @@ This project is a simple recipe website built using only HTML. It consists of a 
 
 ## Screenshots
 
-### Main Page
-
-![Main Page Screenshot](images/main_page_screenshot.png)
-
 ### Lasagna Recipe Page
 
 ![lasagna](https://github.com/user-attachments/assets/7729490b-c2dc-4da9-8025-a4c2e6e91f83)
@@ -39,10 +35,3 @@ This project is a simple recipe website built using only HTML. It consists of a 
 
 ![tacos](https://github.com/user-attachments/assets/c17be4bc-95bc-4d49-bf43-0fc4858ab7f6)
 
-
-## Adding Images to the README
-
-To include images in your README, use the following syntax:
-
-```markdown
-![Alt Text](images/image_name.png)

@@ -28,9 +28,10 @@ This project is a simple recipe website built using only HTML. It consists of a 
 
 ![Lasagna Recipe Screenshot]
 
-### Pizza Recipe Page
+### Pizza Recipe Page!
 
-![Pizza Recipe Screenshot](images/pizza_screenshot.png)
+[pizza](https://github.com/user-attachments/assets/eccae1d2-fb75-4083-8562-0a0b96222fb8)
+
 
 ### Tacos Recipe Page
 
